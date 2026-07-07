@@ -22,3 +22,5 @@ notes/octocat.md
 - 不要因為教室電腦現在使用某個環境，就把它當成你的偏好。
 
 接著依照 `tasks/01-create-profile.md` 請 Coding Agent 建立 profile JSON。
+
+測試喔
