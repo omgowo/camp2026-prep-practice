@@ -1,0 +1,16 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "omgowo",
+    "displayName": "omgowo",
+    "tagline": "熱愛畫圖與 AI，喜歡把想法做成看得到的東西。",
+    "interests": [
+        "畫圖",
+        "跳舞",
+        "AI"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}

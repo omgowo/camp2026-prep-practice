@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/profiles/*.json"],
+      "url": "./schemas/profile.schema.json"
+    }
+  ],
+  "editor.formatOnSave": true,
+  "files.eol": "\n"
+}

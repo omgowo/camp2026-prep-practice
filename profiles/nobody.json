@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "nobody",
+  "displayName": "nobody",
+  "tagline": "喜歡保持簡潔，也想慢慢累積技能。",
+  "interests": [
+    "學習"
+  ],
+  "faction": {
+    "os": "macos",
+    "browser": "firefox",
+    "editor": "zed"
+  }
+}

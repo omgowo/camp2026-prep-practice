@@ -1,0 +1,29 @@
+{
+  "os": {
+    "windows": "Windows",
+    "macos": "macOS",
+    "linux": "Linux",
+    "chromeos": "ChromeOS",
+    "ipad": "iPadOS",
+    "other": "其他"
+  },
+  "browser": {
+    "chrome": "Chrome",
+    "firefox": "Firefox",
+    "edge": "Edge",
+    "safari": "Safari",
+    "brave": "Brave",
+    "arc": "Arc",
+    "other": "其他"
+  },
+  "editor": {
+    "vscode": "VS Code",
+    "visualstudio": "Visual Studio",
+    "jetbrains": "JetBrains",
+    "vim": "Vim / Neovim",
+    "emacs": "Emacs",
+    "zed": "Zed",
+    "sublime": "Sublime Text",
+    "other": "其他"
+  }
+}
